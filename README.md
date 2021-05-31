@@ -1,4 +1,4 @@
-# React table test task implementation for Crazy Panda
+# React table implementation for Crazy Panda
 
 ### Таблица поддерживает:
 
